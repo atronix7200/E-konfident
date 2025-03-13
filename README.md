@@ -1,0 +1,5 @@
+│── index.html (Główna strona)
+│── style.css (Stylizacja)
+│── script.js (Logika działania)
+│── logo.png (Logo policyjne dla beki)
+│── wykroczenia.json (Lista losowych wykroczeń)
